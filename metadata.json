@@ -1,0 +1,5 @@
+{
+  "name": "Todo Tic-Tac-Toe",
+  "description": "A gamified productivity experience where claiming squares in a Tic-Tac-Toe board requires completing AI-generated tasks and challenges.",
+  "requestFramePermissions": []
+}
